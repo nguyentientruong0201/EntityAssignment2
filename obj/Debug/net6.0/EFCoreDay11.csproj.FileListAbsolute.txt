@@ -1,0 +1,7 @@
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.csproj.AssemblyReference.cache
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.GeneratedMSBuildEditorConfig.editorconfig
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.AssemblyInfoInputs.cache
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.AssemblyInfo.cs
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.csproj.CoreCompileInputs.cache
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.MvcApplicationPartsAssemblyInfo.cs
+E:\RookiesBatch4\EFCoreDay11\obj\Debug\net6.0\EFCoreDay11.MvcApplicationPartsAssemblyInfo.cache
